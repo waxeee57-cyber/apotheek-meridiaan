@@ -1,0 +1,27 @@
+{
+  "name": "Apotheek Meridiaan",
+  "tagline": "Zelfzorg met apothekersoog, aan de gracht.",
+  "legalName": "Apotheek Meridiaan B.V.",
+  "address": {
+    "street": "Prinsengracht 412",
+    "postalCode": "1016 JC",
+    "city": "Amsterdam"
+  },
+  "phone": "020 624 8800",
+  "email": "balie@apotheekmeridiaan.nl",
+  "kvk": "34321987",
+  "btw": "NL812345678B01",
+  "big": "19023456789",
+  "hours": [
+    { "days": "Maandag – vrijdag", "time": "08:30 – 18:00" },
+    { "days": "Zaterdag", "time": "09:00 – 17:00" },
+    { "days": "Zondag", "time": "Gesloten · dienstapotheek" }
+  ],
+  "emergency": "Buiten openingstijden: apotheekdienst Amsterdam via 020 592 3333.",
+  "shipping": {
+    "threshold": 29,
+    "fee": 3.95,
+    "sameDayCutoff": "14:00",
+    "area": "Amsterdam en Diemen"
+  }
+}

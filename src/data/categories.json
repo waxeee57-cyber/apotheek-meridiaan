@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "pijn-koorts",
+    "name": "Pijn & koorts",
+    "summary": "Paracetamol, ibuprofen en andere zelfzorg bij hoofdpijn, spierpijn of koorts.",
+    "accent": "sage"
+  },
+  {
+    "slug": "verkoudheid-griep",
+    "name": "Verkoudheid & griep",
+    "summary": "Neusspray, keel- en hoestmiddelen voor de seizoensklachten.",
+    "accent": "ice"
+  },
+  {
+    "slug": "allergie",
+    "name": "Allergie",
+    "summary": "Antihistaminica bij hooikoorts, jeuk en overgevoeligheid.",
+    "accent": "pollen"
+  },
+  {
+    "slug": "vitaminen-mineralen",
+    "name": "Vitaminen & mineralen",
+    "summary": "Aanvulling bij tekorten, seizoen of intensieve periodes.",
+    "accent": "sun"
+  },
+  {
+    "slug": "huid",
+    "name": "Huidverzorging",
+    "summary": "Crèmes en zalven bij jeuk, irritatie en kleine huidklachten.",
+    "accent": "clay"
+  },
+  {
+    "slug": "slaap",
+    "name": "Slaap & ontspanning",
+    "summary": "Melatonine en rustmiddelen voor een regelmatiger slaapritme.",
+    "accent": "dusk"
+  },
+  {
+    "slug": "maag-darm",
+    "name": "Maag & darm",
+    "summary": "Zuurremmers en middelen bij brandend maagzuur of een zware maag.",
+    "accent": "sand"
+  },
+  {
+    "slug": "ehbo",
+    "name": "EHBO",
+    "summary": "Verband, zalf en een compacte huisapotheek voor kleine ongelukken.",
+    "accent": "terra"
+  }
+]
